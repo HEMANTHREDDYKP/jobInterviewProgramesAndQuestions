@@ -1,0 +1,46 @@
+Hello iam hemanth kp and 
+  iam an associate software engineer with 1.1 year of experiance
+in developing an application using java
+
+iam good at
+
+java 8
+hibernate 
+jdbc
+spring ioc
+spring mvc
+spring boot
+spring security
+spring data jpa
+
+ 
+in my current role i have gained valuable experiance in developing java based applications using the spring frameworks
+ i have worked extensively with spring boot to build rest apis
+i have also used spring core to implement dependencyb injection and spring data jpa to work with database
+
+one of my biggest strength is my ability to learn quickly and adopt to new technologies 
+iam always eager to expand my knowledge and skill set
+ 
+i have also worked in one project hospital management system
+In the Hospital Management System project, I was part of the development team responsible for designing and implementing various 
+features of the system. 
+My role as a Associate Software Engineer was to work closely with my team members, including the project manager, 
+business analysts, and other developers, to ensure the successful delivery of the project.
+
+My key responsibilities included:
+
+Designing and developing various modules of the Hospital Management System, such as patient management, 
+Doctor management using Java and Spring Framework.
+
+Collaborating with the testing team to perform unit testing .
+
+Participating in daily stand-up meetings and sprint retrospectives to review the progress of the project, identify challenges, 
+and discuss potential solutions.
+
+Conducting code reviews and implementing best practices to ensure the quality of the code and adherence to coding standards.
+
+Providing technical support and troubleshooting assistance to the end-users of the system.
+
+Overall, my role and responsibilities in the Hospital Management System project were focused on delivering 
+high-quality software solutions that met the needs of our clients while adhering to project timelines and requirements."
+ 
