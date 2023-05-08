@@ -1,0 +1,48 @@
+ 1. Find the odd and even numbers in the array
+2. Find the vowels and consonants in a word/sentence
+3. Reverse a string without using built in methods
+4. Split the words in a sentence
+5. Find the prime numbers in an array
+6. Find the highest number in an array
+7. Find the 3rd lowest number in an array
+8. Generate Fibonacci series
+9. Find the missing numbers in a series
+10. Find the factorial of a number using recursion
+11. Find if the word is a palindrome
+12. Write a program to compare two strings
+13. Sort the numbers/words in ascending/descending order
+14. Understand and implement all the Searching (Binary, Linear, Jump), Sorting (Quick, Bubble, Merge, Insertion, Selection, heap) algorithms
+15. Understand and implement Arrays, data types, and linked-lists
+16. Implement as many programs as possible in the areas Fibonacci series, Factorial of a number using Recursion 
+17. Palindrome, Matrix manipulations, Prime numbers
+18. OOPS concepts (Abstraction, Encapsulation, Inheritance, Polymorphism) with examples
+19. DB concepts: Schema design, Inner, Outer joins, Complex SQLs, Migrations, problems with migration
+1. https://www.programiz.com/sql/online-compiler/
+    2. Create a table with (ID, Phy, Chem, Maths) with ID as primary key.
+    3. Add another column Biology
+    4. Create 4 records
+20. Change data for a record or two
+    1. Find the ID with highest Phy score
+    2. Find the ID with highest total score
+    3. Ascending order based on total score
+    4. Descending order based on total score
+    5. 2nd highest Math scorer
+21. Build REST APIs
+    1. Create users
+    2. Read user data
+    3. Update user data
+    4. Delete a few attributes of user data and
+    5. Delete user records completely
+22. Implement the following 
+    1. User Singup
+    2. User SingIn
+    3. Forgot password
+    4. API Authentication & Authorization
+    5. RBAC
+23. Core Java interview questions
+    1. Collections classes, Static, Volatile, Synchronize, Serialize, Inner classes
+Praveen Gopinath1:58 PM
+An array has few integers between 1 and 10. Print the missing integers.
+Find highest frequent character in a string
+
+Write a program to get values of union-intersection of two arrays (get uncommon values) A=[1,2,3,4,5]  B = [5,6,7]
